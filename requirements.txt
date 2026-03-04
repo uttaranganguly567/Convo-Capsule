@@ -1,0 +1,16 @@
+torch
+torchaudio
+numpy
+scipy
+scikit-learn
+tqdm
+streamlit
+openai-whisper
+librosa
+soundfile
+ffmpeg-python
+
+# Optional / helpful (not strictly required by code but commonly needed)
+joblib
+resampy
+audioread
